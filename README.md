@@ -16,3 +16,6 @@
 
 - [fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 - [fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
+
+## Shell
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
