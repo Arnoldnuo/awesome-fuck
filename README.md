@@ -19,3 +19,4 @@
 
 ## Shell
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [wtf](https://github.com/senorprogrammer/wtf) - A personal information dashboard for your terminal. 
